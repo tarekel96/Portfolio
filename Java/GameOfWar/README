@@ -1,0 +1,30 @@
+ 1)
+   a) Tarek El-Hajjaoui
+   b) Student ID: 1902662
+   c) Chapman Email: elhaj102@mail.chapman.edu
+   d) Course Number & Section: CPSC 231-03
+   e) Mastery Project 5: Modern War(fare)
+
+ 2)
+   Source Files:
+    WarLogger.java
+    Simulation.java
+    Game.java
+    Player.java
+    Deck.java
+    Player.java
+    Card.java
+
+ 3)
+ N/A
+
+ 4)
+   References:
+    Class Notes
+    ZyBooks
+
+ 5)
+   Instructions to run assignment:
+    1) Compile the Java files in the terminal via: javac *.java
+    2) Run Simulation n <-- n is integer representing the number of games you would like to simulate
+    3) Open WarLogger.war file via a text editor
